@@ -1,2 +1,2 @@
-# JSDWM
- Jessica Sutherland Design Worker Management
+# jessica-sutherland-design
+

@@ -1,0 +1,17 @@
+
+/*
+ *jessica-sutherland-design
+*/
+
+#wpadminbar {
+    border-bottom: 2px solid #772A18;
+    background-color: #F9BA9A;
+}
+
+#wpadminbar .ab-icon .ab-empty-item, #wpadminbar a.ab-item, #wpadminbar>#wp-toolbar span.ab-label, #wpadminbar>#wp-toolbar span.noticon {
+    color: #772A18;
+}
+
+#wpadminbar .ab-icon, #wpadminbar {
+    color: #772A18;
+}
