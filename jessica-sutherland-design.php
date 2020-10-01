@@ -10,10 +10,10 @@ Author URI: https://jessicasutherland.com.au/
  */
 
 /*
- *Jack Sutherland Desi/gn Management Worker for WordPress 5.1
- *For more information, please visit go.jack.desi/worker.
- *If your website goes down - please visit rescue.jack.desi/gn.
- *This plugin collects no information. If you have any concerns about the privacy policy of Jack Sutherland Desi/gn please visit jack.desi/gn/privacy-policy.
+ *Jessica Sutherland Design Worker Management Plugin for WordPress
+ *For more information, please visit jessicasuther.land.
+ *If your website goes down - please visit https://jsjsjs.atlassian.net/servicedesk/
+ *This plugin collects no information. If you have any concerns about the privacy policy of Jessica Sutherland Design please visit https://jessicasutherland.com.au/privacy/.
  */
 
 /*
